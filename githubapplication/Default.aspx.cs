@@ -11,7 +11,7 @@ namespace githubapplication
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Response.Write("updated in github");
+            Response.Write("updated in githu");
         }
     }
 }
